@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+##### 9/30/26
 
-Text
+## Introduction
+In SEP, we had been introduced to new tools to use. 
 
 [Next](entry02.md)
 
